@@ -1,2 +1,3 @@
-# auto-weather-app-vv1y
-Weather forecasting application for modern development workflows
+# Auto Weather App Vv1Y
+
+A weather forecasting application for modern development workflows.
